@@ -1,0 +1,1 @@
+Prisel.WeaponSelector.Config = Prisel.WeaponSelector.Config or {}
